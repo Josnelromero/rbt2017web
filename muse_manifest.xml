@@ -1,0 +1,113 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.retobicitrail.tk" resolutions="1x" timestamp="1490103102895">
+  <folder name="css">
+    <file name="site_global.css" crc="405885246"/>
+    <file name="index.css" crc="234235827" ref="index"/>
+    <file name="iefonts_index.css" crc="395638595" ref="index"/>
+    <file name="detalles-2016.css" crc="135289081" ref="detalles-2016"/>
+    <file name="about-us.css" crc="47177023" ref="about-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="countdown.mulib" crc="4278269643" seo="true" mt="1435134968000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:detalles-2016:about-us"/>
+    <file name="museutils.js" crc="163421577" ref="index:detalles-2016:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:detalles-2016:about-us"/>
+    <file name="museconfig.js" crc="168988563" ref="index:detalles-2016:about-us"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:detalles-2016:about-us"/>
+    <file name="webpro.js" crc="3848665353" ref="index:detalles-2016:about-us"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:detalles-2016:about-us"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:detalles-2016:about-us"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:detalles-2016:about-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u6427.php" crc="4229748188" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:detalles-2016:about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-favicon.ico" crc="439507067" ref="index"/>
+    <file name="gplaypattern.jpg" crc="350579032" ref="index:detalles-2016:about-us"/>
+    <file name="blank.gif" crc="4208392903" ref="index:detalles-2016:about-us"/>
+    <file name="logo-final-png.png" crc="19468688" seo="true" ref="index"/>
+    <file name="022-chronometer-u1331.png" crc="4010121717" ref="index"/>
+    <file name="030-reunion.png" crc="3916344456" seo="true" ref="index"/>
+    <file name="is-less-than-or-equal-to.png" crc="195930701" seo="true" ref="index"/>
+    <file name="location.png" crc="319057200" seo="true" ref="index"/>
+    <file name="012-people.png" crc="3888383659" seo="true" ref="index"/>
+    <file name="montain.png" crc="380771565" seo="true" ref="index"/>
+    <file name="retobicitrail-alta-197-crop-u132.jpg" crc="4223174891" ref="index"/>
+    <file name="retobicitrail-alta-crop-u261.jpg" crc="367263985" ref="index"/>
+    <file name="retobicitrail-alta-151107x466.jpg" crc="368909014" seo="true" ref="index"/>
+    <file name="retobicitrail-alta-45-crop-u301.jpg" crc="200329704" ref="index"/>
+    <file name="retobicitrail-alta-234-crop-u321.jpg" crc="71738304" ref="index"/>
+    <file name="retobicitrail-alta-257-crop-u341.jpg" crc="4067971186" ref="index"/>
+    <file name="el reto.png" crc="505531904" seo="true" ref="index:detalles-2016:about-us"/>
+    <file name="15-crop-u1622.jpg" crc="3906442891" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:detalles-2016:about-us"/>
+    <file name="aliado - nutri seca.png" crc="3985507034" seo="true" ref="index"/>
+    <file name="american graf.jpg" crc="233669883" seo="true" ref="index"/>
+    <file name="ferrer-edit.png" crc="3762853903" seo="true" ref="index"/>
+    <file name="logosfs -1038039--crop-u4242.png" crc="3987423016" ref="index"/>
+    <file name="publix-king--1282946-.png" crc="4087618344" seo="true" ref="index"/>
+    <file name="tmv-edit.png" crc="151518856" seo="true" ref="index"/>
+    <file name="apli.png" crc="303526652" seo="true" ref="index"/>
+    <file name="logosfs -1038039--crop-u3733.png" crc="3987423016" ref="index"/>
+    <file name="logosfs -1038039--crop-u3952.png" crc="3987423016" ref="index"/>
+    <file name="logosfs -1038039--crop-u4097.png" crc="3987423016" ref="index"/>
+    <file name="sayagata-400px.png" crc="280243021" ref="index"/>
+    <file name="down-arrow-u5941.png" crc="4191504068" ref="index"/>
+    <file name="retobicitrail-alta-347.jpg" crc="515343664" ref="index"/>
+    <file name="congruent_outline.jpg" crc="3778843296" ref="index"/>
+    <file name="001-expand-2-u5518-a-fr.png" crc="254174208" ref="index"/>
+    <file name="contract-u5524-a-fr.png" crc="420481816" ref="index"/>
+    <file name="020-avatar-6-u5515-a-fr.jpg" crc="4288613732" ref="index"/>
+    <file name="down-arrow-u6531.png" crc="4191504068" ref="index"/>
+    <file name="ruta-2017.png" crc="461943415" seo="true" ref="index"/>
+    <file name="retobicitrail2-alta-161.jpg" crc="3851292192" ref="index"/>
+    <file name="retobicitrail2-alta-157.jpg" crc="3962395899" ref="index"/>
+    <file name="down-arrow-u6538.png" crc="4191504068" ref="index"/>
+    <file name="down-arrow-u6545.png" crc="4191504068" ref="index"/>
+    <file name="tumblr_static_dlchg3vxve8sgws04o08o4koo.jpg" crc="4077942299" ref="index"/>
+    <file name="brickwall_@2x.jpg" crc="3874765320" ref="index"/>
+    <file name="down-arrow-u6685.png" crc="4191504068" ref="index"/>
+    <file name="retobicitrail2-alta-3.jpg" crc="433871103" ref="index"/>
+    <file name="down-arrow-u6552.png" crc="4191504068" ref="index"/>
+    <file name="slit shadow 2 sharp.png" crc="510555609" seo="true" ref="index"/>
+    <file name="circles.jpg" crc="3989334869" ref="detalles-2016:about-us"/>
+    <file name="u5314.png" crc="23586784" ref="detalles-2016"/>
+    <file name="u5314-r.png" crc="53730189" ref="detalles-2016"/>
+    <file name="u5314-m.png" crc="3862184991" ref="detalles-2016"/>
+    <file name="retobicitrail-alta-197.jpg" crc="3778103949" seo="true" ref="detalles-2016:about-us"/>
+    <file name="retobicitrail-alta.jpg" crc="3871018511" seo="true" ref="detalles-2016:about-us"/>
+    <file name="retobicitrail-alta-15.jpg" crc="3835900299" seo="true" ref="detalles-2016:about-us"/>
+    <file name="retobicitrail-alta-45.jpg" crc="3953478810" seo="true" ref="detalles-2016:about-us"/>
+    <file name="retobicitrail-alta-234.jpg" crc="3864539569" seo="true" ref="detalles-2016:about-us"/>
+    <file name="retobicitrail-alta-257.jpg" crc="3853002470" seo="true" ref="detalles-2016:about-us"/>
+    <file name="15.jpg" crc="446106965" seo="true" ref="detalles-2016:about-us"/>
+    <file name="018-target-1-u4923.png" crc="4046836202" ref="detalles-2016"/>
+    <file name="008-people-u4925.png" crc="441474543" ref="detalles-2016"/>
+    <file name="001-heavy-weight.png" crc="417472225" seo="true" ref="detalles-2016"/>
+    <file name="019-avatar-7.jpg" crc="429880416" seo="true" ref="detalles-2016"/>
+    <file name="027-credit-card-u4936.png" crc="3893814283" ref="detalles-2016"/>
+    <file name="001-like-u4938.png" crc="408070794" ref="detalles-2016"/>
+    <file name="002-stopwatch-u4940.png" crc="452365642" ref="detalles-2016"/>
+    <file name="003-chat-u4934.png" crc="3823793607" ref="detalles-2016"/>
+    <file name="016-medal-u4955.png" crc="3824553834" ref="detalles-2016"/>
+    <file name="014-care-u4963.png" crc="4276179270" ref="detalles-2016"/>
+    <file name="033-user-u4961.png" crc="4236008652" ref="detalles-2016"/>
+    <file name="009-transport-u4921.png" crc="904621" ref="detalles-2016"/>
+    <file name="location-u4959.png" crc="3868209565" ref="detalles-2016"/>
+    <file name="017-cardiogram-u4942.png" crc="216908573" ref="detalles-2016"/>
+    <file name="picture-u4930.png" crc="3805925931" ref="detalles-2016"/>
+    <file name="u6069.png" crc="23586784" ref="about-us"/>
+    <file name="u6069-r.png" crc="53730189" ref="about-us"/>
+    <file name="u6069-m.png" crc="3862184991" ref="about-us"/>
+  </folder>
+  <file name="index.html" crc="4200039378" seo="true" mt="1490103086984" redirect="true"/>
+  <file name="detalles-2016.html" crc="378496722" seo="true" mt="1489881430331" redirect="true"/>
+  <file name="about-us.html" crc="3921407379" seo="true" mt="1489892241167" redirect="true"/>
+</manifest>
