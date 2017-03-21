@@ -8,18 +8,24 @@
   </url>
   <url>
     <loc>http://www.retobicitrail.tk/detalles-2016.html</loc>
-    <lastmod>2017-03-18</lastmod>
+    <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/about-us.html</loc>
-    <lastmod>2017-03-18</lastmod>
+    <loc>http://www.retobicitrail.tk/images/is-less-than-or-equal-to.png</loc>
+    <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/030-reunion.png</loc>
+    <loc>http://www.retobicitrail.tk/assets/student.png</loc>
+    <lastmod>2017-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.retobicitrail.tk/images/logo-final-png.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,13 +37,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/012-people.png</loc>
+    <loc>http://www.retobicitrail.tk/images/030-reunion.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/montain.png</loc>
+    <loc>http://www.retobicitrail.tk/images/012-people.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,19 +79,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.retobicitrail.tk/images/montain.png</loc>
+    <lastmod>2017-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.retobicitrail.tk/images/publix-king--1282946-.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/logo-final-png.png</loc>
-    <lastmod>2017-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.retobicitrail.tk/images/is-less-than-or-equal-to.png</loc>
+    <loc>http://www.retobicitrail.tk/images/apli.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -157,19 +163,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/tmv-edit.png</loc>
-    <lastmod>2017-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.retobicitrail.tk/assets/countdown.mulib</loc>
     <lastmod>2015-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/apli.png</loc>
+    <loc>http://www.retobicitrail.tk/images/tmv-edit.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

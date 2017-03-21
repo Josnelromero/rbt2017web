@@ -31,7 +31,7 @@ $form = array(
 		'to' => 'retobicitrail@gmail.com'
 	),
 	'fields' => array(
-		'custom_U6443' => array(
+		'custom_U6863' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Nombre',
@@ -50,7 +50,7 @@ $form = array(
 				'format' => 'El campo \'Correo electrónico\' contiene un correo electrónico no válido.'
 			)
 		),
-		'custom_U6438' => array(
+		'custom_U6857' => array(
 			'order' => 3,
 			'type' => 'string',
 			'label' => 'Mensaje',
@@ -59,7 +59,7 @@ $form = array(
 				'required' => 'El campo \'Mensaje\' es obligatorio.'
 			)
 		),
-		'custom_U6429' => array(
+		'custom_U6869' => array(
 			'order' => 4,
 			'type' => 'string',
 			'label' => 'Teléfono móvil',
