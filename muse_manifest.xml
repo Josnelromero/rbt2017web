@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.retobicitrail.tk" resolutions="1x" timestamp="1490122147676">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.retobicitrail.tk" resolutions="1x" timestamp="1490148749775">
   <folder name="css">
     <file name="site_global.css" crc="405885246"/>
-    <file name="index.css" crc="423314383" ref="index"/>
-    <file name="iefonts_index.css" crc="418113566" ref="index"/>
-    <file name="detalles-2016.css" crc="4175472865" ref="detalles-2016"/>
+    <file name="index.css" crc="3935289164" ref="index"/>
+    <file name="iefonts_index.css" crc="4072116064" ref="index"/>
+    <file name="detalles-2016.css" crc="3950819423" ref="detalles-2016"/>
   </folder>
   <folder name="assets">
     <file name="countdown.mulib" crc="4278269643" seo="true" mt="1435134968000"/>
@@ -21,10 +21,6 @@
     <file name="touchswipe.js" crc="404375771" ref="index:detalles-2016"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
     <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
-    <file name="form_check.php" crc="158155501" ref="index"/>
-    <file name="form_throttle.php" crc="3992970984" ref="index"/>
-    <file name="form_process.php" crc="4078697226" ref="index"/>
-    <file name="form-u6852.php" crc="488972857" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
     <file name="require.js" crc="244322403" ref="index:detalles-2016"/>
   </folder>
@@ -32,7 +28,7 @@
     <file name="a-pág.-maestra-favicon.ico" crc="439507067" ref="index"/>
     <file name="gplaypattern.jpg" crc="350579032" ref="index:detalles-2016"/>
     <file name="blank.gif" crc="4208392903" ref="index:detalles-2016"/>
-    <file name="logo-final-png.png" crc="19468688" seo="true" ref="index"/>
+    <file name="logo-final-png.png" crc="4159498801" seo="true" ref="index"/>
     <file name="022-chronometer-u1331.png" crc="4010121717" ref="index"/>
     <file name="030-reunion.png" crc="3916344456" seo="true" ref="index"/>
     <file name="is-less-than-or-equal-to.png" crc="195930701" seo="true" ref="index"/>
@@ -58,7 +54,7 @@
     <file name="logosfs -1038039--crop-u3733.png" crc="3987423016" ref="index"/>
     <file name="logosfs -1038039--crop-u3952.png" crc="3987423016" ref="index"/>
     <file name="logosfs -1038039--crop-u4097.png" crc="3987423016" ref="index"/>
-    <file name="sayagata-400px.png" crc="280243021" ref="index"/>
+    <file name="sayagata-400px.png" crc="280243021" ref="index:detalles-2016"/>
     <file name="retobicitrail-alta-347.jpg" crc="515343664" ref="index"/>
     <file name="congruent_outline.jpg" crc="3778843296" ref="index"/>
     <file name="001-expand-2-u5518-a-fr.png" crc="254174208" ref="index"/>
@@ -67,23 +63,19 @@
     <file name="ruta-2017.png" crc="461943415" seo="true" ref="index"/>
     <file name="retobicitrail2-alta-161.jpg" crc="3851292192" ref="index"/>
     <file name="retobicitrail2-alta-157.jpg" crc="3962395899" ref="index"/>
-    <file name="down-arrow-u6538.png" crc="4191504068" ref="index"/>
     <file name="tumblr_static_dlchg3vxve8sgws04o08o4koo.jpg" crc="4077942299" ref="index"/>
     <file name="brickwall_@2x.jpg" crc="3874765320" ref="index"/>
     <file name="retobicitrail2-alta-3.jpg" crc="433871103" ref="index"/>
-    <file name="down-arrow-u6552.png" crc="4191504068" ref="index"/>
-    <file name="slit shadow 2 sharp.png" crc="510555609" seo="true" ref="index"/>
-    <file name="circles.jpg" crc="3989334869" ref="detalles-2016"/>
-    <file name="u5314.png" crc="23586784" ref="detalles-2016"/>
-    <file name="u5314-r.png" crc="53730189" ref="detalles-2016"/>
-    <file name="u5314-m.png" crc="3862184991" ref="detalles-2016"/>
+    <file name="u5314.png" crc="4286760207" ref="detalles-2016"/>
+    <file name="u5314-r.png" crc="309178166" ref="detalles-2016"/>
+    <file name="u5314-m.png" crc="4097554211" ref="detalles-2016"/>
     <file name="retobicitrail-alta-197.jpg" crc="3778103949" seo="true" ref="detalles-2016"/>
     <file name="retobicitrail-alta.jpg" crc="3871018511" seo="true" ref="detalles-2016"/>
     <file name="retobicitrail-alta-15.jpg" crc="3835900299" seo="true" ref="detalles-2016"/>
     <file name="retobicitrail-alta-45.jpg" crc="3953478810" seo="true" ref="detalles-2016"/>
     <file name="retobicitrail-alta-234.jpg" crc="3864539569" seo="true" ref="detalles-2016"/>
     <file name="retobicitrail-alta-257.jpg" crc="3853002470" seo="true" ref="detalles-2016"/>
-    <file name="15.jpg" crc="446106965" seo="true" ref="detalles-2016"/>
+    <file name="15.jpg" crc="4079179249" seo="true" ref="detalles-2016:index"/>
     <file name="018-target-1-u4923.png" crc="4046836202" ref="detalles-2016"/>
     <file name="008-people-u4925.png" crc="441474543" ref="detalles-2016"/>
     <file name="001-heavy-weight.png" crc="417472225" seo="true" ref="detalles-2016"/>
@@ -99,7 +91,38 @@
     <file name="location-u4959.png" crc="3868209565" ref="detalles-2016"/>
     <file name="017-cardiogram-u4942.png" crc="216908573" ref="detalles-2016"/>
     <file name="picture-u4930.png" crc="3805925931" ref="detalles-2016"/>
+    <file name="002-twitter-1.png" crc="111729313" seo="true" ref="index:detalles-2016"/>
+    <file name="003-youtube.png" crc="3771366383" seo="true" ref="index:detalles-2016"/>
+    <file name="004-facebook-1.png" crc="8280946" seo="true" ref="index:detalles-2016"/>
+    <file name="instagram.png" crc="479532745" seo="true" ref="index:detalles-2016"/>
+    <file name="1.jpg" crc="4227067959" seo="true" ref="index:detalles-2016"/>
+    <file name="2.jpg" crc="355828780" seo="true" ref="index:detalles-2016"/>
+    <file name="3.jpg" crc="4133061581" seo="true" ref="index:detalles-2016"/>
+    <file name="4.jpg" crc="3868553420" seo="true" ref="index:detalles-2016"/>
+    <file name="5.jpg" crc="3903159468" seo="true" ref="index:detalles-2016"/>
+    <file name="6.jpg" crc="3823251705" seo="true" ref="index:detalles-2016"/>
+    <file name="7.jpg" crc="418222951" seo="true" ref="index:detalles-2016"/>
+    <file name="8.jpg" crc="3903680715" seo="true" ref="index:detalles-2016"/>
+    <file name="9.jpg" crc="247336952" seo="true" ref="index:detalles-2016"/>
+    <file name="10.jpg" crc="4016458852" seo="true" ref="index:detalles-2016"/>
+    <file name="11.jpg" crc="4260649810" seo="true" ref="index:detalles-2016"/>
+    <file name="12.jpg" crc="3982377537" seo="true" ref="index:detalles-2016"/>
+    <file name="13.jpg" crc="511191804" seo="true" ref="index:detalles-2016"/>
+    <file name="14.jpg" crc="3794406307" seo="true" ref="index:detalles-2016"/>
+    <file name="16.jpg" crc="4119830089" seo="true" ref="index:detalles-2016"/>
+    <file name="17.jpg" crc="449579595" seo="true" ref="index:detalles-2016"/>
+    <file name="aliado - nutri seca2.png" crc="42528427" seo="true" ref="index"/>
+    <file name="american graf2.jpg" crc="4138623955" seo="true" ref="index"/>
+    <file name="curro-logo.png" crc="4195233913" seo="true" ref="index"/>
+    <file name="ferrer-edit2.png" crc="3762853903" seo="true" ref="index"/>
+    <file name="incret.jpg" crc="4112617005" seo="true" ref="index"/>
+    <file name="inparques.png" crc="3766869179" seo="true" ref="index"/>
+    <file name="logosfs.png" crc="4060951001" seo="true" ref="index"/>
+    <file name="publix-king-.png" crc="4181430637" seo="true" ref="index"/>
+    <file name="tmv-edit2.png" crc="3773416154" seo="true" ref="index"/>
+    <file name="curro-logo2.png" crc="252511222" seo="true" ref="index"/>
+    <file name="152.jpg" crc="446106965" seo="true" ref="detalles-2016"/>
   </folder>
-  <file name="index.html" crc="3775792426" seo="true" mt="1490122036103" redirect="true"/>
-  <file name="detalles-2016.html" crc="3777165475" seo="true" mt="1490120887106" redirect="true"/>
+  <file name="index.html" crc="466301938" seo="true" mt="1490148515794" redirect="true"/>
+  <file name="detalles-2016.html" crc="4064052530" seo="true" mt="1490147567848" redirect="true"/>
 </manifest>
