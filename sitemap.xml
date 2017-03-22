@@ -13,8 +13,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/apli.png</loc>
-    <lastmod>2017-03-21</lastmod>
+    <loc>http://www.retobicitrail.tk/assets/countdown.mulib</loc>
+    <lastmod>2015-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -85,13 +85,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/assets/student.png</loc>
-    <lastmod>2017-02-28</lastmod>
+    <loc>http://www.retobicitrail.tk/images/tmv-edit.png</loc>
+    <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/logo-final-png.png</loc>
+    <loc>http://www.retobicitrail.tk/images/apli.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -169,13 +169,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/tmv-edit.png</loc>
-    <lastmod>2017-03-21</lastmod>
+    <loc>http://www.retobicitrail.tk/assets/student.png</loc>
+    <lastmod>2017-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/004-facebook-1.png</loc>
+    <loc>http://www.retobicitrail.tk/images/logo-final-png.png</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -331,20 +331,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/images/curro-logo2.png</loc>
-    <lastmod>2017-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.retobicitrail.tk/images/152.jpg</loc>
     <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.retobicitrail.tk/assets/countdown.mulib</loc>
-    <lastmod>2015-06-24</lastmod>
+    <loc>http://www.retobicitrail.tk/images/004-facebook-1.png</loc>
+    <lastmod>2017-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.retobicitrail.tk" resolutions="1x" timestamp="1490148749775">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.retobicitrail.tk" resolutions="1x" timestamp="1490153137382">
   <folder name="css">
-    <file name="site_global.css" crc="405885246"/>
-    <file name="index.css" crc="3935289164" ref="index"/>
+    <file name="site_global.css" crc="4181665945"/>
+    <file name="index.css" crc="514388502" ref="index"/>
     <file name="iefonts_index.css" crc="4072116064" ref="index"/>
     <file name="detalles-2016.css" crc="3950819423" ref="detalles-2016"/>
   </folder>
@@ -113,16 +113,15 @@
     <file name="17.jpg" crc="449579595" seo="true" ref="index:detalles-2016"/>
     <file name="aliado - nutri seca2.png" crc="42528427" seo="true" ref="index"/>
     <file name="american graf2.jpg" crc="4138623955" seo="true" ref="index"/>
-    <file name="curro-logo.png" crc="4195233913" seo="true" ref="index"/>
+    <file name="curro-logo.png" crc="252511222" seo="true" ref="index"/>
     <file name="ferrer-edit2.png" crc="3762853903" seo="true" ref="index"/>
     <file name="incret.jpg" crc="4112617005" seo="true" ref="index"/>
     <file name="inparques.png" crc="3766869179" seo="true" ref="index"/>
     <file name="logosfs.png" crc="4060951001" seo="true" ref="index"/>
     <file name="publix-king-.png" crc="4181430637" seo="true" ref="index"/>
     <file name="tmv-edit2.png" crc="3773416154" seo="true" ref="index"/>
-    <file name="curro-logo2.png" crc="252511222" seo="true" ref="index"/>
     <file name="152.jpg" crc="446106965" seo="true" ref="detalles-2016"/>
   </folder>
-  <file name="index.html" crc="466301938" seo="true" mt="1490148515794" redirect="true"/>
+  <file name="index.html" crc="121705926" seo="true" mt="1490152855426" redirect="true"/>
   <file name="detalles-2016.html" crc="4064052530" seo="true" mt="1490147567848" redirect="true"/>
 </manifest>
