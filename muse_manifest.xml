@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.retobicitrail.tk" resolutions="1x" timestamp="1490293785465">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.retobicitrail.tk" resolutions="1x" timestamp="1490295376499">
   <folder name="css">
     <file name="site_global.css" crc="405885246"/>
-    <file name="index.css" crc="247501204" ref="index"/>
+    <file name="index.css" crc="389597336" ref="index"/>
     <file name="iefonts_index.css" crc="3876355577" ref="index"/>
     <file name="detalles-2016.css" crc="4970500" ref="detalles-2016"/>
     <file name="contac-us.css" crc="4207901486" ref="contac-us"/>
@@ -141,7 +141,7 @@
     <file name="logosfs -1038039--crop-u18534.png" crc="3987423016" ref="contac-us"/>
     <file name="logosfs -1038039--crop-u18990.png" crc="3987423016" ref="contac-us"/>
   </folder>
-  <file name="index.html" crc="3853219992" seo="true" mt="1490293761197" redirect="true"/>
+  <file name="index.html" crc="236226514" seo="true" mt="1490295096393" redirect="true"/>
   <file name="detalles-2016.html" crc="31786085" seo="true" mt="1490293686734" redirect="true"/>
   <file name="store.html" crc="475995056" seo="true" mt="1490293576718" redirect="true"/>
   <file name="contac-us.html" crc="174688277" seo="true" mt="1490293695441" redirect="true"/>
